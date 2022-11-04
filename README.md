@@ -29,6 +29,7 @@
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
+[linkedin]: https://www.linkedin.com/in/feyza-ayhan-3b203a244/
 
 <h3> Tools I Use:</h3>
 
@@ -38,6 +39,20 @@
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
+
+
+## Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Feyzayhn&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feyzayhn&layout=compact&langs_count-16&theme=dracula"/>
