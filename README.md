@@ -4,7 +4,11 @@
 
 <h3>About me⚡ </h3> 
 <p></p>
+I am an experienced software test engineer. I attended the bootcamp training, which lasted about 1 year. I have done manual and automation tests. During the testing process, I worked with Agile and Scrum methodologies. I performed my tests using Java, Selenium, TestNG, Cucumber, Git-Github, Api.
 
+I worked on test scenarios, created manual tests to run and completed, developed the projects with minimum errors.
+
+I can work both independently and in a team environment to achieve the goals. My experience has taught me that teamwork is a better way to reach success. I believe that the strong relationships established with all departments lead not only the company but also the entire team to succeed.
 
 <br>
 <h3> Tech I Use:</h3>
