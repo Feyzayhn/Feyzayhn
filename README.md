@@ -8,7 +8,6 @@ I am an experienced software test engineer. I attended the bootcamp training, wh
 
 I worked on test scenarios, created manual tests to run and completed, developed the projects with minimum errors.
 
-I can work both independently and in a team environment to achieve the goals. My experience has taught me that teamwork is a better way to reach success. I believe that the strong relationships established with all departments lead not only the company but also the entire team to succeed.
 
 <br>
 <h3> Tech I Use:</h3>
