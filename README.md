@@ -57,7 +57,7 @@ I worked on test scenarios, created manual tests to run and completed, developed
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Feyzayhn&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feyzayhn&layout=compact&langs_count-16&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Feyzayhn&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feyzayhn&layout=compact&langs_count-16&theme=dracula"/>
+
 
 
