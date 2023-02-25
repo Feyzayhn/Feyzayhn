@@ -33,6 +33,7 @@ I worked on test scenarios, created manual tests to run and completed, developed
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
 [linkedin]: https://www.linkedin.com/in/feyzayhan/
+[cypress]: https://www.cypress.io/
 
 <h3> Tools I Use:</h3>
 
