@@ -4,10 +4,11 @@
 
 <h3>About me⚡ </h3> 
 <p></p>
-I am an experienced software test engineer. I attended the bootcamp training, which lasted about 1 year. I have done manual and automation tests. During the testing process, I worked with Agile and Scrum methodologies. I performed my tests using Java, Selenium, TestNG, Cucumber, Git-Github, Api.
-
-I worked on test scenarios, created manual tests to run and completed, developed the projects with minimum errors.
-
+I have experience in both manual and automation testing; I actively work on writing test scenarios, executing them, and improving test processes.
+Using Cypress and TypeScript, I build and maintain end-to-end automation frameworks with a focus on stability and scalability.
+I'm familiar with Agile/Scrum environments and regularly contribute to sprint planning, daily stand-ups, and ongoing test activities.
+I take ownership of my tasks and enjoy working collaboratively to ensure smooth and error-free project delivery.
+My goal is to contribute to a seamless and reliable user experience through solid and effective testing processes.
 
 <br>
 <h3> Tech I Use:</h3>
